@@ -1,4 +1,4 @@
 class Conf:
-    api_id = 0
-    api_hash = ''
-    bot_token = ''
+    api_id = 0 # get it from https://my.telegram.org/
+    api_hash = '' # get it from https://my.telegram.org/
+    bot_token = '' # get it from @BotFather
