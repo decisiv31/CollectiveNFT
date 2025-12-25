@@ -4,7 +4,7 @@ CollectiveNFT's Telegram bot
 ([@collective_nft_bot](https://t.me/collective_nft_bot))
 requires your private key for some functions to work. This is inevitable,
 as there is no Telegram wallet to call and connect to. Private keys are NOT
-stored or logged anywhere, but you don't have to believe it. You can have
+stored or logged anywhere, but you don't have to trust. You can have
 your own bot. Here is how:
 
 ### 1. Clone this Repository
@@ -56,3 +56,4 @@ Enter your own `api_id`, `api_hash`, and `bot_token` in `conf.py`.
 ### 10. Run the bot
 
 Inside virtual environment: `python3 bot.py`
+
