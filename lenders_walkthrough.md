@@ -24,7 +24,7 @@ Higher interest rate doesn't necessarily mean a better contract. You should
 consider other factors as well. NFT owners can lure you into a bad contract 
 by setting a high interest rate. Therefore, it's very important to manually 
 check and assess the value of the locked-up NFTs. The collateral for the 
-loan (i.e. the value of locked-up NFTs) should never be less than the loan; 
+loan (i.e. the cumulative value of locked-up NFTs) should never be less than the loan; 
 otherwise, it would be profitable for the contract owner to lose the NFTs 
 and get away with all the loan.
 
@@ -89,5 +89,6 @@ interest (if the contract status is 'expired').
 * ### What happens at the end of the contract period?
   #### Scenario #1: If there is enough Zil liquidity in the contract, everything ends well. Token owners get their Zil + interest, and all tokens are burnt. Contract is terminated, and contract owner can unlock his NFTs.
   #### Scenario #2: If there isn't enough Zil liquidity in the contract to pay back token owners, contract owner loses his NFTs. Minted tokens will represent the locked NFTs and can still be traded.
+
 
 
