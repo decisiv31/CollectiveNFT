@@ -13,3 +13,6 @@
 ## Music
 - https://rentry.co/wheredownloadmusic/
 - https://rentry.co/firehawk52
+- https://web.ligaudio.ru/
+- http://mechanicalhellchile.blogspot.com/
+- https://in-the-fog.ru/
