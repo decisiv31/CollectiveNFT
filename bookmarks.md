@@ -9,6 +9,7 @@
 ## Tor
 - https://onionservices.torproject.org/technology/security/pow/
 - https://gitlab.torproject.org/tpo/onion-services/onion-pow-example
+- https://checkitonion.online/
 
 ## Music
 - https://rentry.co/wheredownloadmusic/
